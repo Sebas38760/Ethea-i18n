@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
+"POT-Creation-Date: 2026-04-18 07:39 UTC\n"
 "PO-Revision-Date: 2021-09-09 23:05+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -133,7 +133,7 @@ msgid "Additional Thanks to"
 msgstr "Отдельное спасибо"
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:331
+#: Invasion_from_the_Unknown/about.cfg:350
 msgid "You, for playing this campaign"
 msgstr "Вам, за игру в эту кампанию"
 
@@ -1100,7 +1100,7 @@ msgstr "Ваш доход приостановлен, вы не можете п�
 
 #. [unstore_unit]
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:248
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1760
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1762
 msgid "absorbed damage"
 msgstr "урон поглощен"
 
@@ -1121,73 +1121,73 @@ msgstr "Галас"
 msgid "Anlindë"
 msgstr "Анлиндэ"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:41
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:40
 msgid "Mal Keshar"
 msgstr "Мал Кешар"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:54
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:52
 msgid "Elynia"
 msgstr "Элиния"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:68
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:65
 msgid "Unarye"
 msgstr "Анери"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:82
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:78
 msgid "Inodien"
 msgstr "Инодьен"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:96
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:91
 msgid "Althurin"
 msgstr "Альтурин"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:113
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:109
 msgid "King Asthorgar"
 msgstr "Король Асторгар"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:133
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:128
 msgid "Igor"
 msgstr "Игорь"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:146
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:141
 msgid "Erathan"
 msgstr "Эрэзэн"
 
 #. [event]
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:159
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:153
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:723
 msgid "Lédinor"
 msgstr "Лединор"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:177
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:170
 msgid "De’Arthian"
 msgstr "Д'Артиан"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:189
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:182
 msgid "Illana"
 msgstr "Иллиана"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:201
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:194
 msgid "Arnesius"
 msgstr "Арнесиус"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:214
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:207
 msgid "Delarel"
 msgstr "Деларель"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:226
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:219
 msgid "Torancyn"
 msgstr "Торанцин"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:238
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:231
 msgid "Aleazar"
 msgstr "Элиезер"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:254
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:247
 msgid "Mal Hekuba"
 msgstr "Мал Хекуба"
 
-#: Invasion_from_the_Unknown/macros/character-defines.cfg:266
+#: Invasion_from_the_Unknown/macros/character-defines.cfg:259
 msgid "Elyssa"
 msgstr "Элисса"
 
@@ -4028,7 +4028,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/macros/union.cfg:43
 #: Invasion_from_the_Unknown/macros/union.cfg:117
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1337
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1661
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1663
 msgid "union"
 msgstr "союз"
 
@@ -4246,7 +4246,7 @@ msgstr "Продержитесь как можно дольше"
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:900
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:871
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1188
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1706
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1708
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:228
 msgid "Death of Galas"
 msgstr "Смерть Галаса"
@@ -4426,7 +4426,7 @@ msgstr "Победите всех лидеров противника"
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:903
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:874
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1191
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1709
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1711
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:231
 msgid "Death of Lédinor"
 msgstr "Смерть Лединора"
@@ -5600,7 +5600,7 @@ msgstr "Победите орков, контролирующих оазис"
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:597
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:902
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:873
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1708
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1710
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:230
 msgid "Death of Mal Keshar"
 msgstr "Уничтожение Мал Кешара"
@@ -8044,7 +8044,7 @@ msgid "Unidë"
 msgstr "Унидэ"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:178
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:186
 msgid ""
 "Welcome, friends. It’s been a long time since yer kinsmen last visited us... "
 "But tell me, what’re yer names? What brings ye here to the depths o’ the "
@@ -8057,7 +8057,7 @@ msgstr ""
 "этом зале?!</b>"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:183
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:191
 msgid ""
 "We can explain, Your Highness! I am Galas, leader of the elves from the "
 "Valley of Elynia. This is Anlindë and..."
@@ -8066,7 +8066,7 @@ msgstr ""
 "долины Элинии. Это — Анлиндэ, а это…"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:188
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:196
 msgid ""
 "The lich is Mal Keshar, our guide and... quite an important ally of ours. We "
 "would not be standing here in one piece without his help."
@@ -8075,7 +8075,7 @@ msgstr ""
 "стояли на этом месте, если бы не его поддержка."
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:193
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:201
 msgid ""
 "I ha’ heard enough o’ this old vile creature ye brought into my domain! "
 "Dinna’ ye realize how dangerous it is to deactivate our defenses just to let "
@@ -8088,12 +8088,12 @@ msgstr ""
 "вы не были из эльфов Квенота!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:202
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:210
 msgid "I beg your pardon, Your Highness, but what are you talking about?"
 msgstr "Прошу прощения, Ваше Величество, но о чем Вы говорите?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:207
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:215
 msgid ""
 "King, your fellow dwarves spoke of elves from the desert when they first met "
 "us. Am I to assume that they identified themselves as the ‘Quenoth’ people? "
@@ -8104,12 +8104,12 @@ msgstr ""
 "посещали Ваше царство? Они действительно пришли из пустыни?"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:216
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:224
 msgid "Ye ask too many questions..."
 msgstr "Вы задаёте слишком много вопросов…"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:231
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:239
 msgid ""
 "Aye, they were the Quenoth elves o’ the desert. It was a few centuries ago "
 "that they helped our brethren in the south and opened the route for the "
@@ -8124,12 +8124,12 @@ msgstr ""
 "отличаетесь от того, что описывали наши историки…"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:248
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:256
 msgid "I reckon ye’re not from the desert then?"
 msgstr "В таком случае, выходит, вы не из пустыни?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:253
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:261
 msgid ""
 "That’s correct. We actually come from a secluded valley far from here, in "
 "which our ancestors found a favorable environment to settle. We were invaded "
@@ -8145,7 +8145,7 @@ msgstr ""
 "проживал в пустыне. Анлиндэ, есть ли что-то, о чём ты мне не говорила?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:258
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:266
 msgid ""
 "There was a... civil war, some time after the Fall, Galas. You have to "
 "understand that such a world-changing event had similar consequences for "
@@ -8163,7 +8163,7 @@ msgstr ""
 "судьбе остальных до этого дня."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:267
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:275
 msgid ""
 "That would explain why many of the foes we have fought thus far are aware of "
 "our existence... Your Highness, what was the fate of the Quenoth elves?"
@@ -8172,7 +8172,7 @@ msgstr ""
 "о нас осведомлены… Ваше Величество, что Вы знаете о судьбе эльфов Квенота?"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:272
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:280
 msgid ""
 "It’s said they were in search of a new home in the Far North, led by a young "
 "boy much like ye, by the name of Kalehssar. Our kin sent a soldier along "
@@ -8191,7 +8191,7 @@ msgstr ""
 "восстанавливает этот разрушенный мир."
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:279
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:287
 msgid ""
 "Och, that nae the tale I was going to tell! Anyway, they didnae continue "
 "north. They were attacked by humans led by a wretched abomination posing as "
@@ -8210,7 +8210,7 @@ msgstr ""
 "разум жителей пустыни с волей монстра!"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:292
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:300
 msgid ""
 "But ’tis just a story from a lunatic who barely made it back home. The poor "
 "thing provided them with a vivid account of the journey, though. Ye may ask "
@@ -8223,24 +8223,24 @@ msgstr ""
 "обстановке, если вам так интересно. (<i>смеётся</i>)"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:301
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:309
 msgid "Sounds quite impressive for a mere band of elves."
 msgstr "Довольно впечатляюще для отряда эльфов."
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:312
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:320
 msgid ""
 "Ah, but it wasn’t just a band o’ them! They brought all o’ their people for "
 "the journey! Anyway..."
 msgstr "А, но это не был какой-то отряд! Они привели весь свой народ! Неважно…"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:317
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:325
 msgid "What do you know about the Chaos Empire?"
 msgstr "Что вам известно об Империи Хаоса?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:322
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:330
 msgid ""
 "Murderers and thieves aided by the so-called “mother of all demons” from "
 "beyond this world. That’s what they are."
@@ -8249,7 +8249,7 @@ msgstr ""
 "нашего мира, — вот всё, что они из себя представляют."
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:327
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:335
 msgid ""
 "Aye... About two hundred years ago, they forced the southern clans in "
 "Gnalvarden to abandon their caves and move here. But far too many were "
@@ -8265,7 +8265,7 @@ msgstr ""
 "тех пор."
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:332
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:340
 msgid ""
 "We ha’ been told a powerful warlord is bringing an army to strike against "
 "Herthgar, as if there were anything in these caves that could be useful to "
@@ -8284,7 +8284,7 @@ msgstr ""
 "достаточно долго…"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:349
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:357
 msgid ""
 "Och, if ye can forgive me, there are so many things to do before we do "
 "battle with the demons... If there’s anything left to discuss, it must wait "
@@ -8295,17 +8295,17 @@ msgstr ""
 "придётся отложить их до ужина."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:354
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:362
 msgid "It is no problem, Your Highness. We are grateful for your counsel."
 msgstr "Как скажете, Ваше Величество. Мы благодарим Вас за Вашу помощь."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:373
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:381
 msgid "What do we do now?"
 msgstr "Что нам теперь делать?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:378
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:386
 msgid ""
 "I don’t think the dwarf king is going to be of help to us. He seems largely "
 "ignorant of less mundane affairs... We’ll need to search for the Lady of "
@@ -8320,12 +8320,12 @@ msgstr ""
 "вторжение, если мы переправим его в те земли."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:383
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:391
 msgid "I shall lead an expedition to the Far North, then."
 msgstr "Тогда я отправлюсь в экспедицию на Крайний Север."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:388
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:396
 msgid ""
 "Galas, as the regent lord appointed by Lord Lédinor, you should be beside us "
 "when we find her. It will be an important first meeting after all this time "
@@ -8336,7 +8336,7 @@ msgstr ""
 "падения наших предков…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:393
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:401
 msgid ""
 "Well, in that case... Inodien? Would you lead our main host and civilians to "
 "the humans?"
@@ -8345,12 +8345,12 @@ msgstr ""
 "жителей к людям?"
 
 #. [message]: speaker=Inodien
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:398
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:406
 msgid "M— my lord, are you suggesting that I..."
 msgstr "М— милорд, Вы предлагаете мне…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:403
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:411
 msgid ""
 "If it weren’t for Lady Unarye and you, we would have lost many more men and "
 "women to the sands. Your leadership in my absence was essential to our "
@@ -8361,12 +8361,12 @@ msgstr ""
 "выживании."
 
 #. [message]: speaker=Inodien
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:408
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:416
 msgid "Yes, my lord. I—"
 msgstr "Да, милорд. Я—"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:413
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:421
 msgid ""
 "If I am allowed to interrupt, lord Galas... I may ha’ heard of this “Lady of "
 "Light” before."
@@ -8375,24 +8375,24 @@ msgstr ""
 "Света” и раньше."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:418
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:426
 msgid "Oh! Now the dwarf decides to be useful! Why didn’t you say so before?"
 msgstr ""
 "О! Теперь гном решил принести хоть какую-то пользу! Почему ты не сказал это "
 "раньше?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:423
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:431
 msgid "Ye... never said exactly what ye were lookin’ for in these caves."
 msgstr "Э-э… вы никогда и не говорили, что ищете в этих пещерах."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:428
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:436
 msgid "What do you know about her?"
 msgstr "Что вы о ней знаете?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:433
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:441
 msgid ""
 "We ha’ some lore about this elvish heroine... from a hundred years or so "
 "after the first cataclysm... ’Tis quite confusin’, really, but it’s not the "
@@ -8413,7 +8413,7 @@ msgstr ""
 "земли, а за каждым углом поджидают странные яростные монстры."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:438
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:446
 msgid ""
 "It was around those parts that with his runic artifacts he detected a strong "
 "power like he’d never seen before, hidin’ beneath. He said that he could see "
@@ -8428,7 +8428,7 @@ msgstr ""
 "что же там могло находиться."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:443
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:451
 msgid ""
 "... That could be the lead we needed. Did your master by any chance leave "
 "indications as to how to reach those caves?"
@@ -8437,7 +8437,7 @@ msgstr ""
 "подсказок, как добраться до этих пещер?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:448
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:456
 msgid ""
 "Aye, he did. I could guide ye, as well. It’s not exactly advisable to "
 "explore the uncharted depths of the heart of Irdya if ye’re not a dwarf."
@@ -8446,7 +8446,7 @@ msgstr ""
 "глубины Ирдии без сопровождения гномов будет не лучшим выбором."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:453
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:461
 msgid ""
 "If that is a thing you can do... I mean, without the king taking offense to "
 "this plan..."
@@ -8455,7 +8455,7 @@ msgstr ""
 "этого плана…"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:460
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:468
 msgid ""
 "Pfft, we wouldn’t need to rely on you if I were allowed to turn the elves "
 "into undead. Why would you want to risk your life on our mission, anyway?"
@@ -8465,7 +8465,7 @@ msgstr ""
 "опасности?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:465
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:473
 msgid ""
 "As I said before, our loremasters have recorded the history of this "
 "sorceress. From what I figure she’s probably the most powerful one ever seen "
@@ -8482,7 +8482,7 @@ msgstr ""
 "говорил… И я хочу дойти до истины."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:474
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:482
 msgid ""
 "And in any case, ye all saved our lives, and in particular mine — I am "
 "indebted for ye saving me from the followers of Uria. Sending ye on a "
@@ -8493,7 +8493,7 @@ msgstr ""
 "рискованной миссии вам не повредит, не так ли?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:479
+#: Invasion_from_the_Unknown/scenarios/08x_A_Royal_Meeting.cfg:487
 msgid "Hm, fair enough, Althurin. We’ll gladly accept your help."
 msgstr "Гм, хорошо, Альтурин. Мы с радостью принимаем твою помощь."
 
@@ -9772,7 +9772,7 @@ msgstr "<b>(указывает на Галаса)</b>"
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:949
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:576
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:635
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1967
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1969
 msgid "..."
 msgstr "…"
 
@@ -10704,7 +10704,7 @@ msgstr "Смерть короля Асторгара"
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:901
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:872
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1189
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1707
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1709
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:229
 msgid "Death of Elynia"
 msgstr "Смерть Элинии"
@@ -19058,7 +19058,7 @@ msgstr "Убить их всех."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:869
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1704
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1706
 msgid ""
 "Kill Argan, the Master of Darkness, and put an end to his sinister rule over "
 "Irdya"
@@ -19309,8 +19309,8 @@ msgstr "Нет! Этот свет… Я не могу—"
 #. [message]: speaker=Argan
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1507
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1544
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1676
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2075
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1678
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2077
 msgid "caption^Argan?"
 msgstr "Арган?"
 
@@ -19333,24 +19333,24 @@ msgid "I... I recognize that voice..."
 msgstr "Я... Я помню этот голос..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1580
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1582
 msgid "Elynia... You saved me again..."
 msgstr "Элиния… Ты снова спасла меня…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1585
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1587
 msgid ""
 "I’m sorry it took me so long, Galas, but with Mal Keshar under his control..."
 msgstr ""
 "Прости, что провозилась так долго, Галас, но с Мал Кешаром под его властью…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1592
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1594
 msgid "Mal Keshar! Is he... gone?"
 msgstr "Мал Кешар! Ему… конец?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1597
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1599
 msgid ""
 "If he truly is as powerful as he likes to make himself out to be, there "
 "might be a chance his soul is still intact, but whether it will return to "
@@ -19360,7 +19360,7 @@ msgstr ""
 "нетронут, но вернётся ли он в тело…"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1666
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1668
 msgid ""
 "You made a fatal mistake in coming to Inferno, Elynia. As long as you are in "
 "the same realm as I, I too can use the Union against you."
@@ -19369,12 +19369,12 @@ msgstr ""
 "что и я, я могу использовать против тебя Союз."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1671
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1673
 msgid "(<i>defiant</i>) Then one of us must die first."
 msgstr "(<i>вызывающе</i>)  Тогда один из нас должен умереть."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1677
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1679
 msgid ""
 "female^Truly, it is a magnificent power. It is a shame that you will not "
 "surrender it to me willingly, Lady of Light."
@@ -19383,7 +19383,7 @@ msgstr ""
 "Света."
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1717
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1719
 msgid ""
 "Elynia is able to use the Union without Mal Keshar if she is adjacent to "
 "Argan, although doing so puts her at risk"
@@ -19392,17 +19392,17 @@ msgstr ""
 "Арганом, однако ей самой в этом случае грозит опасность"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1953
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1955
 msgid "You are... hurting me..."
 msgstr "Ты... делаешь мне больно..."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1962
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1964
 msgid "Elynia... Why do you do this?"
 msgstr "Элиния… Почему?"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1972
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1974
 msgid ""
 "We were meant to be together... for the rest of eternity... Do you not love "
 "me anymore, Elynia?"
@@ -19411,7 +19411,7 @@ msgstr ""
 "любишь, Элиния?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1977
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1979
 msgid ""
 "You... You’ve become a monster! An abomination! Do you really not realize "
 "what you’ve done, what... what Uria has done to you?"
@@ -19420,7 +19420,7 @@ msgstr ""
 "натворил, что… что Урия сотворила с тобой?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2058
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2060
 msgid ""
 "Excuse me, did I miss anything? ... Oh! I guess you haven’t managed to "
 "strike down that pompous fool yet. Good, good."
@@ -19429,7 +19429,7 @@ msgstr ""
 "этого самодура?! Что ж, сейчас это исправим."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2063
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2065
 msgid ""
 "Mal Keshar! Thank the Lords of Light — I thought I would never hear you "
 "speak again. Do you think you can still help us somehow?"
@@ -19438,7 +19438,7 @@ msgstr ""
 "снова. Не мог бы ты нам помочь?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2068
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2070
 msgid ""
 "Help you? HA! Of course I can help you! It will take much more than some "
 "unfathomable ancient power to put me out of commission, boy."
@@ -19447,37 +19447,37 @@ msgstr ""
 "хватит, чтобы выбить меня из строя, малыш."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2076
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2078
 msgid "female^Put an end... to this... <b>NOW!</b>"
 msgstr "Покончи… с этим… <b>СЕЙЧАС ЖЕ!</b>"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2251
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2253
 msgid "Look out! Those creatures emerge from his body with each hit!"
 msgstr "Взгляните! Эти существа отрываются от его тела с каждым ударом!"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2271
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2273
 msgid "Energy... Yes... Feed me more energy..."
 msgstr "Энергия… Да… Скорми мне больше энергии…"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2309
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2311
 msgid "No... Noooooo!!! My power... falters..."
 msgstr "Нет… Нееееееет!!! Моя власть… содрогнулась…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2330
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2332
 msgid "It’s— it’s tearing me apart—"
 msgstr "Меня— меня разрывает на части—"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2485
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2487
 msgid "What just happened?"
 msgstr "Что только что случилось?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2494
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2496
 msgid "The prophecy... has been broken."
 msgstr "Пророчество… было разрушено."
 

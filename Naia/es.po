@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
+"POT-Creation-Date: 2026-04-18 07:39 UTC\n"
 "PO-Revision-Date: 2026-04-17 18:53-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: none>\n"
@@ -1247,27 +1247,27 @@ msgid "advancements^Advance to: %s"
 msgstr "Avanzar a: %s"
 
 #. [lua]: wesnoth.wml_actions.bug
-#: Naia/lua/gui/bug.lua:118
+#: Naia/lua/gui/bug.lua:141
 msgid "Developer message:"
 msgstr "Mensaje del desarrollador:"
 
 #. [lua]: wesnoth.wml_actions.bug
-#: Naia/lua/gui/bug.lua:181
+#: Naia/lua/gui/bug.lua:204
 msgid "The following WML condition was unexpectedly reached:"
 msgstr "Se alcanzó inesperadamente la siguiente condición WML:"
 
 #. [lua]: wesnoth.wml_actions.bug
-#: Naia/lua/gui/bug.lua:191
+#: Naia/lua/gui/bug.lua:214
 msgid "Inspect"
 msgstr "Inspeccionar"
 
 #. [lua]: wesnoth.wml_actions.bug
-#: Naia/lua/gui/bug.lua:227
+#: Naia/lua/gui/bug.lua:250
 msgid "Details"
 msgstr "Detalles"
 
 #. [lua]: preshow
-#: Naia/lua/gui/bug.lua:258
+#: Naia/lua/gui/bug.lua:281
 msgid ""
 "An inconsistency has been detected, and the scenario might not continue "
 "working as originally intended."
@@ -1276,22 +1276,22 @@ msgstr ""
 "funcionando como se pretendía originalmente."
 
 #. [lua]: preshow
-#: Naia/lua/gui/bug.lua:276
+#: Naia/lua/gui/bug.lua:299
 msgid "Please report this issue on the forums:"
 msgstr "Por favor, informa este problema en los foros:"
 
 #. [lua]: preshow
-#: Naia/lua/gui/bug.lua:279
+#: Naia/lua/gui/bug.lua:302
 msgid "Please report this issue on the bug tracker:"
 msgstr "Por favor, informa este problema en el rastreador de errores:"
 
 #. [lua]: preshow
-#: Naia/lua/gui/bug.lua:289
+#: Naia/lua/gui/bug.lua:312
 msgid "Notice"
 msgstr "Aviso"
 
 #. [lua]: preshow
-#: Naia/lua/gui/bug.lua:292
+#: Naia/lua/gui/bug.lua:315
 msgid "Error"
 msgstr "Error"
 
@@ -1544,125 +1544,168 @@ msgstr "Fallecido"
 msgid "chara_status^Missing"
 msgstr "Desaparecido"
 
+#: Naia/lua/gui/journey_ui.lua:66
+msgid ""
+"Switch to narrow view\n"
+"(Optimized for small screens)"
+msgstr ""
+
+#: Naia/lua/gui/journey_ui.lua:67
+msgid ""
+"Switch to wide view\n"
+"(Optimized for large screens)"
+msgstr ""
+
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:620
+#: Naia/lua/gui/journey_ui.lua:667
 msgid "Other titles"
 msgstr "Otros títulos"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:621
+#: Naia/lua/gui/journey_ui.lua:668
 msgid "Affiliation"
 msgstr "Afiliación"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:622
+#: Naia/lua/gui/journey_ui.lua:669
 msgid "Status"
 msgstr "Estado"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:623
+#: Naia/lua/gui/journey_ui.lua:670
 msgid "Race"
 msgstr "Raza"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:685
+#: Naia/lua/gui/journey_ui.lua:732
 msgid "Unit Description"
 msgstr "Descripción de la unidad"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:686
+#: Naia/lua/gui/journey_ui.lua:733
 msgid "Opens the character’s unit description in the Help browser"
 msgstr ""
 "Abre la descripción de la unidad del personaje en el navegador de ayuda"
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:739
+#: Naia/lua/gui/journey_ui.lua:786
 msgid "record_source^From"
 msgstr "De"
 
+#. [lua]: chara_info_panel_field
+#: Naia/lua/gui/journey_ui.lua:948
+msgid "Compact view"
+msgstr "Vista compacta"
+
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1094
+#: Naia/lua/gui/journey_ui.lua:1172
 msgid "achievements^Filter"
 msgstr "Filtro"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1123
+#: Naia/lua/gui/journey_ui.lua:1201
 msgid "achievements^All"
 msgstr "Todos"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1131
+#: Naia/lua/gui/journey_ui.lua:1209
 msgid "achievements^Complete"
 msgstr "Completos"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1139
+#: Naia/lua/gui/journey_ui.lua:1217
 msgid "achievements^Incomplete"
 msgstr "Incompletos"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1156
+#: Naia/lua/gui/journey_ui.lua:1243
+#, fuzzy
+msgid "Hidden achievements (debug)"
+msgstr "Logros ocultos"
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1264
 msgid "achievements^Progress"
 msgstr "Progreso"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1416
+#: Naia/lua/gui/journey_ui.lua:1556
+msgid ""
+"Narrow view\n"
+"(Optimized for mobile)"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1566
+msgid ""
+"Wide view\n"
+"(Optimized for desktop)"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1598
+msgid "Browse items"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1641 Naia/lua/gui/journey_ui.lua:1708
 msgid "Search"
 msgstr "Buscar"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1463
+#: Naia/lua/gui/journey_ui.lua:1651
+msgid "Show/hide Search box"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1700
+#, fuzzy
+msgid "Search:"
+msgstr "Buscar"
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1750
 msgid "<unknown campaign>"
 msgstr "<campaña desconocida>"
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1464
+#: Naia/lua/gui/journey_ui.lua:1751
 msgid "Select the campaign to display"
 msgstr "Selecciona la campaña a mostrar"
 
-#. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1481
-msgid "Hidden achievements"
-msgstr "Logros ocultos"
-
-#. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1491
-msgid "Compact view"
-msgstr "Vista compacta"
-
 #. [lua]: journeylog_ui_dream_hook
-#: Naia/lua/gui/journey_ui.lua:1656
+#: Naia/lua/gui/journey_ui.lua:1900
 msgid "― This functionality is currently unavailable ―"
 msgstr "― Esta función no está disponible actualmente ―"
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:2168
+#: Naia/lua/gui/journey_ui.lua:2464
 msgid "character_quote_text_format^<span style='italic' color='%s'>“%s”</span>"
 msgstr "<span style='italic' color='%s'>«%s»</span>"
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:2172
+#: Naia/lua/gui/journey_ui.lua:2468
 msgid ""
 "character_quote_author_format^<span size='smaller' color='%s'>⎯ %s</span>"
 msgstr "<span size='smaller' color='%s'>⎯ %s</span>"
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2202
+#: Naia/lua/gui/journey_ui.lua:2512
 msgid "archive_section^People"
 msgstr "Personas"
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2218
+#: Naia/lua/gui/journey_ui.lua:2528
 msgid "archive_section^World"
 msgstr "Mundo"
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2234
+#: Naia/lua/gui/journey_ui.lua:2544
 msgid "archive_section^Recaps"
 msgstr "Resúmenes"
 
 #. [lua]: wesnoth.wml_actions.journeylog
-#: Naia/lua/gui/journey_ui.lua:2584
+#: Naia/lua/gui/journey_ui.lua:2987
 msgid "Journal"
 msgstr "Diario"
 
@@ -2650,9 +2693,10 @@ msgstr ""
 "style='italic'>Descenso a la oscuridad</span> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:38
+#, fuzzy
 msgid ""
-"Certain sequences make use of floating labels, halos, and standing unit "
-"animations, so you may want to ensure these options are enabled under <span "
+"Certain sequences make use of standing unit animations, so you may want to "
+"ensure this option is enabled—it is by default—under <span "
 "color='#bcb088'>Preferences <b>›</b> Display</span> to ensure the best "
 "experience."
 msgstr ""
